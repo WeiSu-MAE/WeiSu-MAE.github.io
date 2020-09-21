@@ -1,0 +1,83 @@
+<div class="sidebar-item sidebar-header">
+	<div class='sidebar-brand'>
+		<a href="/about/">{{ site.title }}</a>
+	</div>
+	<p class="lead">{{ site.description }}<br>
+
+	{%- if site.email -%}
+    	<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> <br><br>
+    {%- endif -%}
+<!-- 	{%- if social.github -%}
+		<a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">
+			<svg class="svg-icon grey">
+				<use xlink:href="{{ '/public/img/minima-social-icons.svg#github' | relative_url }}" />
+			</svg>
+		</a>
+	{%- endif -%} -->
+		<a rel="me" href="https://www.linkedin.com/in/wei-su-24373899" title="linkedin">
+			<img src="/public/img/iconmonstr-linkedin-3.svg" height=25px>
+		</a>
+		<a rel="me" href="https://scholar.google.com/citations?user=5ELg4LMAAAAJ&hl=en" title="googlescholar">
+			<img src="/public/img/google-scholar.svg" height=25px>
+		</a>
+		<a rel="me" href="https://www.researchgate.net/profile/Wei_Su22" title="RG">
+			<img src="/public/img/icon-researchgate.svg" height=25px>
+		</a>
+		<a rel="me" href="https://github.com" title="github">
+			<img src="/public/img/minima-social-icons.svg" height=25px>
+		</a>
+	</p>
+</div>
+
+<div class="sidebar-item sidebar-nav">
+	<ul class="nav">
+      <!-- <li class="nav-title">Pages</li> -->
+      <li class="nav-title"></li>
+      <li>
+	  	<a class="nav-item" href="/about/">About Me</a>
+	  </li>
+	  <li>
+	  	<a class="nav-item" href="/pubs/">Publication</a>
+	  </li>
+	  <li>
+	  	<a class="nav-item" href="/research/">Research</a>
+	  </li>
+	  <li>
+	  	<a class="nav-item" href="/public/cv_WeiSu.pdf">Full CV</a>
+	  </li>
+	  
+	 <!--  {% assign pages_list = site.pages %}
+	  {% for node in pages_list %}
+	    {% if node.title != null %}
+	      {% if node.layout == "page" %}
+	        <li>
+	        	<a class="nav-item" href="{{ node.url }}">
+	            	{{ node.title }}
+	            </a>
+	        </li>
+	      {% endif %}
+	    {% endif %}
+	  {% endfor %} -->
+	</ul>
+</div>
+
+<!-- <div class="sidebar-item sidebar-nav">
+  	<ul class="nav">
+			<li class="nav-title">Categories</li>
+	    {% for category in site.categories %}
+	    <li>
+	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
+				<span class="name">{{ category | first }}</span>
+				<span class="badge">{{ category | last | size }}</span>
+	    	</a>
+ 		</li>
+	    {% endfor %}
+	  </nav>
+	</ul>
+</div> -->
+
+
+<div class="sidebar-item sidebar-footer">
+	<!-- {%- include footer.html -%} -->
+	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+</div>
