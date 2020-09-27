@@ -5,9 +5,9 @@ permalink: /about/
 ---
 ![Wei_Su](/public/img/Portrait.jpg)
 
-I am a Research Associate at the [School of Engineering](https://www.eng.ed.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/). My research mainly focuses on the computational rarefied gas dynamics, with emphasis in developing accurate and efficient numerical methods for kinetic equations and multiscale simulation. I am interested in studying the rarefied gas flow phenomena with a variety of engineering applications, e.g. high-altitude flight, micro-electro-mechanical system, unconventional gas production, vacuum science. Exploiting the unique features of rarefied gas to improve and innovate technologies is my long-term reasearch goal.  
+I am a Research Associate at the [School of Engineering](https://www.eng.ed.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/). My research mainly focuses on the computational rarefied gas dynamics, with emphasis on developing accurate and efficient numerical methods for kinetic equations and multiscale simulation. I am interested in studying the rarefied gas flow phenomena with a variety of engineering applications, e.g., high-altitude flight, micro-electro-mechanical system, unconventional gas production, vacuum science. Exploiting the unique features of rarefied gas to improve and innovate technologies is my long-term research goal.  
 
-I am also interested in the sophisticated modelling of nonequilibrium relaxation in shock-heated flow, occurring in the context of space exploration.
+I am also interested in the sophisticated modeling of nonequilibrium relaxation in shock-heated flow, occurring in the context of space exploration.
 
 # EDUCATION
 
