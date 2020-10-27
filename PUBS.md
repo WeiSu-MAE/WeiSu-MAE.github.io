@@ -5,11 +5,13 @@ permalink: /pubs/
 ---
 
 ### Preprints
-[P2] **W Su**, Y Zhang, L Wu (2020). Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.  Submitted to *Computer Methods in Applied Mechanics and Engineering* [[ResearchGate]](https://www.researchgate.net/publication/344070470_Multiscale_simulation_of_molecular_gas_flows_by_the_general_synthetic_iterative_scheme)
+
 
 [P1] L Zhu, X Pi, **W Su**, Y Zhang, L Wu (2020). General synthetic iteration scheme for non-linear gas kinetic simulation of multi-scale rarefied gas flows. Submitted to *Journal of Computational Physics* [[ResearchGate]](https://www.researchgate.net/publication/340859948_General_synthetic_iteration_scheme_for_non-linear_gas_kinetic_simulation_of_multi-scale_rarefied_gas_flows) 
 
 ### Journal Publications
+
+[J21] **W Su**, Y Zhang, L Wu (2020). Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.  *Computer Methods in Applied Mechanics and Engineering*. Accepted [[ResearchGate]](https://www.researchgate.net/publication/344070470_Multiscale_simulation_of_molecular_gas_flows_by_the_general_synthetic_iterative_scheme)
 
 [J20] **W Su**, L Zhu, L Wu (2020). Fast convergence and asymptotic preserving of the general synthetic iterative scheme. *SIAM Journal on Scientific Computing*. Accepted. [[ResearchGate]](https://www.researchgate.net/publication/344187324_Fast_convergence_and_asymptotic_preserving_of_the_General_Synthetic_Iterative_Scheme)
 
