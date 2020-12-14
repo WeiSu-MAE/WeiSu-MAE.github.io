@@ -8,12 +8,13 @@ permalink: /pubs/
 
 
 [P1] L Zhu, X Pi, **W Su**, Y Zhang, L Wu (2020). General synthetic iteration scheme for non-linear gas kinetic simulation of multi-scale rarefied gas flows. Submitted to *Journal of Computational Physics* [[ResearchGate]](https://www.researchgate.net/publication/340859948_General_synthetic_iteration_scheme_for_non-linear_gas_kinetic_simulation_of_multi-scale_rarefied_gas_flows) 
+[P2] Q Li, J Zeng, **W Su**, L Wu (2020). Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation. Submitted to *Journal of Fluid Mechanics*
 
 ### Journal Publications
 
-[J21] **W Su**, Y Zhang, L Wu (2020). Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.  *Computer Methods in Applied Mechanics and Engineering*. Accepted [[ResearchGate]](https://www.researchgate.net/publication/344070470_Multiscale_simulation_of_molecular_gas_flows_by_the_general_synthetic_iterative_scheme)
+[J21] **W Su**, Y Zhang, L Wu (2021). Multiscale simulation of molecular gas flows by the general synthetic iterative scheme. [*Computer Methods in Applied Mechanics and Engineering*, 373: 113548](https://www.sciencedirect.com/science/article/pii/S0045782520307337?via%3Dihub)
 
-[J20] **W Su**, L Zhu, L Wu (2020). Fast convergence and asymptotic preserving of the general synthetic iterative scheme. *SIAM Journal on Scientific Computing*. Accepted. [[ResearchGate]](https://www.researchgate.net/publication/344187324_Fast_convergence_and_asymptotic_preserving_of_the_General_Synthetic_Iterative_Scheme)
+[J20] **W Su**, L Zhu, L Wu (2020). Fast convergence and asymptotic preserving of the general synthetic iterative scheme. [*SIAM Journal on Scientific Computing*. 42(6): B1517-B1540](https://epubs.siam.org/doi/abs/10.1137/20M132691X)
 
 [J19] P Wang, **W Su**, L Wu (2020). Thermal transpiration in molecular gas. [*Physics of Fluids*, 32: 082005](https://doi.org/10.1063/5.0018505).
 
