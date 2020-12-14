@@ -8,6 +8,7 @@ permalink: /pubs/
 
 
 [P1] L Zhu, X Pi, **W Su**, Y Zhang, L Wu (2020). General synthetic iteration scheme for non-linear gas kinetic simulation of multi-scale rarefied gas flows. Submitted to *Journal of Computational Physics* [[ResearchGate]](https://www.researchgate.net/publication/340859948_General_synthetic_iteration_scheme_for_non-linear_gas_kinetic_simulation_of_multi-scale_rarefied_gas_flows) 
+
 [P2] Q Li, J Zeng, **W Su**, L Wu (2020). Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation. Submitted to *Journal of Fluid Mechanics*
 
 ### Journal Publications
