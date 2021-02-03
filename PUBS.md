@@ -7,11 +7,11 @@ permalink: /pubs/
 ### Preprints
 
 
-[P1] L Zhu, X Pi, **W Su**, Y Zhang, L Wu (2020). General synthetic iteration scheme for non-linear gas kinetic simulation of multi-scale rarefied gas flows. Submitted to *Journal of Computational Physics* [[ResearchGate]](https://www.researchgate.net/publication/340859948_General_synthetic_iteration_scheme_for_non-linear_gas_kinetic_simulation_of_multi-scale_rarefied_gas_flows) 
-
-[P2] Q Li, J Zeng, **W Su**, L Wu (2020). Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation. Submitted to *Journal of Fluid Mechanics*
+[P1] Q Li, J Zeng, **W Su**, L Wu (2020). Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation. Submitted to *Journal of Fluid Mechanics*. [[ResearchGate]](https://www.researchgate.net/publication/348899871_Uncertainty_quantification_in_rarefied_dynamics_of_molecular_gas_rate_effect_of_thermal_relaxation)
 
 ### Journal Publications
+
+[J22] L Zhu, X Pi, **W Su**, Y Zhang, L Wu (2020). General synthetic iterative scheme for nonlinear gas kinetic simulation of multi-scale rarefied gas flows. [*Journal of Computational Physics*, 430: 110091](https://www.sciencedirect.com/science/article/pii/S0021999120308652) 
 
 [J21] **W Su**, Y Zhang, L Wu (2021). Multiscale simulation of molecular gas flows by the general synthetic iterative scheme. [*Computer Methods in Applied Mechanics and Engineering*, 373: 113548](https://www.sciencedirect.com/science/article/pii/S0045782520307337?via%3Dihub)
 
@@ -37,13 +37,13 @@ permalink: /pubs/
 
 [J10] P Wang, **W Su**, Y Zhang (2018). Oscillatory rarefied gas flow inside a three dimensional rectangular cavity.  [*Physics of Fluids*, 30: 102002](https://doi.org/10.1063/1.5052253).
 
-[J9] W Liu, G Tang, **W Su**, L Wu, Y Zhang (2018). Rarefaction throttling effect: Influence of the bend in micro-channel gaseous flow.  [*Physics of Fluids*, 30: 082002](https://doi.org/10.1063/1.5037430).
+[J9] **W Su**, D Bruno, Y Babou (2018). State-specific modeling of vibrational relaxation and nitric oxide formation in shock-heated air. [*Journal of Thermophysics and Heat Transfer*, 32: 337-352](https://doi.org/10.2514/1.T5271).
 
-[J8] P Wang, L Zhu, **W Su**, L Wu, Y Zhang (2018). Nonlinear oscillatory rarefied gas flow inside a rectangular cavity.  [*Physical Review E*, 97: 043103](https://doi.org/10.1103/PhysRevE.97.043103).
+[J8] W Liu, G Tang, **W Su**, L Wu, Y Zhang (2018). Rarefaction throttling effect: Influence of the bend in micro-channel gaseous flow.  [*Physics of Fluids*, 30: 082002](https://doi.org/10.1063/1.5037430).
 
-[J7] **W Su**, H Liu, Y Zhang, L Wu (2017). Rarefaction cloaking: Influence of the fractal rough surface in gas slider bearings.  [*Physics of Fluids*, 29: 102003](https://doi.org/10.1063/1.4999696).
+[J7] P Wang, L Zhu, **W Su**, L Wu, Y Zhang (2018). Nonlinear oscillatory rarefied gas flow inside a rectangular cavity.  [*Physical Review E*, 97: 043103](https://doi.org/10.1103/PhysRevE.97.043103).
 
-[J6] **W Su**, D Bruno, Y Babou (2017). State-specific modeling of vibrational relaxation and nitric oxide formation in shock-heated air. [*Journal of Thermophysics and Heat Transfer*, 32: 337-352](https://doi.org/10.2514/1.T5271).
+[J76] **W Su**, H Liu, Y Zhang, L Wu (2017). Rarefaction cloaking: Influence of the fractal rough surface in gas slider bearings.  [*Physics of Fluids*, 29: 102003](https://doi.org/10.1063/1.4999696).
 
 [J5] **W Su**, S Lindsay, H Liu, L Wu (2017). Comparative study of the discrete velocity and lattice Boltzmann methods for rarefied gas flows through irregular channels. [*Physical Review E*, 96: 023309](https://doi.org/10.1103/PhysRevE.96.023309).
 
